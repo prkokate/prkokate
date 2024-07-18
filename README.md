@@ -31,10 +31,6 @@ standards akin to platforms like BookMyShow.
 - [Predictor Model](https://github.com/prkokate/match-predictor-model): Deployed the predictor model on cloud using flask.
 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
-
-- <a href="https://medium.com/@shxntanu/from-urls-to-pixels-how-browsers-bring-the-internet-to-life-aabf3aaf92f9">From URLs to Pixels — How Browsers bring the Internet to life</a>
-
 <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png">
 
 <div align="center">
@@ -45,12 +41,11 @@ standards akin to platforms like BookMyShow.
   <img width="2">
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px>](https://www.java.com/en/)
   <img width="2">
-  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://dart.dev)
-  <img width="2">
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
   <img width="2">
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height=40px>](https://www.typescriptlang.org/)
-<img width="2">
+
+
   [<img src="https://miro.medium.com/v2/resize:fit:980/1*cWuvkF15QKOsTHtgyIaqOA.png" alt="Flask" height=40px>](https://flask.palletsprojects.com/en/3.0.x/)
   <img width="2">
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
