@@ -25,6 +25,7 @@ standards akin to platforms like BookMyShow.
 
 - [Win classifier](https://github.com/prkokate/Match-Predictor): Designing and training a classifier based on keenly analysed attributes to predict win rate for a Premeir League match.
 - [Sentiment Analysis](https://github.com/prkokate/Sentiment-Analysis): Sentiment analysis of Marathi tweets, classifying them into positive, negeative or neutral.
+- [Classify Me](https://github.com/prkokate/Classify-Me): Provides a comprehensive overview of a typical NLP application using embeddings, covering data preprocessing, model development, evaluation and analysis.
 
 ## Flask
 
