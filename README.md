@@ -1,4 +1,4 @@
-<img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
+<img src="https://github.com/prkokate/prkokate/blob/main/assets/github-banner-gif.gif" >
 <h1 align="center">Hi there, I'm Prathamesh 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h3 align="center">Full Stack Web Developer, ML Developer, Graphic Designer, Systems Design Enthusiast and Computer Engineering Student at PICT Pune.</h3>
@@ -11,7 +11,7 @@
 - Likes kicking the football quite often.
 - How to reach me: **prkokate10@gmail.com**
 
-<img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
+<img src ="https://github.com/prkokate/prkokate/blob/main/assets/project-heading.png">
 
 ## Web
 
@@ -32,7 +32,7 @@ standards akin to platforms like BookMyShow.
 - [Predictor Model](https://github.com/prkokate/match-predictor-model): Deployed the predictor model on cloud using flask.
 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png">
+<img src= "https://github.com/prkokate/prkokate/blob/main/assets/language-heading.png">
 
 <div align="center">
 
@@ -99,7 +99,7 @@ standards akin to platforms like BookMyShow.
 <div align="center">
  
   
-  <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
+  <img src="https://github.com/prkokate/prkokate/blob/main/assets/connect-heading.png">
   <div align="center">
     <a href="https://www.linkedin.com/in/prathamesh-kokate-74681a280/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
     <a href="https://leetcode.com/u/prkokate10/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
