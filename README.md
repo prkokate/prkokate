@@ -1,4 +1,4 @@
-<img src="https://github.com/prkokate/prkokate/blob/main/assets/github-banner-gif.gif" >
+<img src="https://github.com/prkokate/prkokate/blob/main/assets/github-banner-gif1.gif" >
 <h1 align="center">Hi there, I'm Prathamesh 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h3 align="center">Full Stack Web Developer, ML Developer, Graphic Designer, Systems Design Enthusiast and Computer Engineering Student at PICT Pune.</h3>
