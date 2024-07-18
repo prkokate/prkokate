@@ -1,7 +1,7 @@
 <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
 <h1 align="center">Hi there, I'm Prathamesh 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
-<h3 align="center">Full Stack Web Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student at PICT Pune.</h3>
+<h3 align="center">Full Stack Web Developer, ML Developer, Graphic Designer, Systems Design Enthusiast and Computer Engineering Student at PICT Pune.</h3>
 
 
 - Full Stack Web Developer, ML Enthusiast, Graphic Designer, Flask developer, and a lot more.
@@ -60,7 +60,8 @@ standards akin to platforms like BookMyShow.
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px>](https://en.wikipedia.org/wiki/CSS)
   <img width="2">
   [<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height=32px>](https://tailwindcss.com/)
-<img width="2">
+
+
   [<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
   <img width="2">
   [<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
@@ -70,7 +71,8 @@ standards akin to platforms like BookMyShow.
   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40px>](https://www.mongodb.com/)
   [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height=40px>](https://expressjs.com/)
   [<img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" height=40px>](https://jwt.io/)
-<img width="2">
+
+
   [<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height=40px>](https://www.canva.com)
   <img width="2">
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">](https://code.visualstudio.com/)
