@@ -82,9 +82,7 @@ standards akin to platforms like BookMyShow.
   <img width="2">
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma">](https://www.figma.com/)
   <img width="2">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown">](https://en.wikipedia.org/wiki/Markdown)
-  <img width="2">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo">](https://developer.apple.com/xcode/)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png" height="40" alt="Markdown">](https://www.docker.com/)
   <img width="2">
   <img src="http://content.arduino.cc/brand/arduino-color.svg" height=40px>
 
